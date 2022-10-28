@@ -1,0 +1,6 @@
+com\actitime\selenium_automation\PomRepo\CustomerDetailsPage.class
+com\actitime\selenium_automation\PomRepo\Try.class
+com\actitime\selenium_automation\PomRepo\CreateNewCustomerPage.class
+com\actitime\selenium_automation\PomRepo\HomePage.class
+com\actitime\selenium_automation\PomRepo\LoginPage.class
+com\actitime\selenium_automation\PomRepo\TaskPage.class
